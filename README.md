@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a web developer. I usually code in Javascript and TypeScript. I write a bit of React here and there
+I am a web developer. I usually write Javascript and TypeScript. I write a bit of React here and there
