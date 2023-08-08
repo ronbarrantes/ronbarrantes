@@ -1,4 +1,4 @@
-### Hello :)
+### Hello 😊
 
 <!--
 **ronbarrantes/ronbarrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a web developer. I usually write Javascript and TypeScript. I write a quite a bit of React here and there
+I am a Full Stack Engineer. I write primarily in Typescript, and I love React and Next.js
