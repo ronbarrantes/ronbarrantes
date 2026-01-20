@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack Engineer. I write primarily in Typescript, and I love React and Next.js
+I am a Full Stack Engineer. I write primarily in Typescript, and I love React and Next.js. I'm also learning Go
